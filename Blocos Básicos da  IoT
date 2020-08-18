@@ -1,0 +1,41 @@
+BLOCOS BASICOS DA IoT
+Como voce viu,a IoT esta viabilizando uma série de aplicações,segmentos,isso é possivel graças a um compilador de tecnologias que se complementam para viabilizar a integração dos objetos nos ambientes fisico e digital.
+
+IDENTIFICAÇÃO OPTICA 
+As informações sobre o objeto são armazenadas como um Código de barras ou Código Data Matrix bidimensinal e são lidas via tecnologia de imagem digital ou á laser.Sistemas de código de barras e data matrix são uma alternativa economica para tecnologia RFID(Idenficação Radio Frequencia).
+
+SENSORES  
+È por meio de sensores que são coletados dados sobre  o contexto no qual os objetos se encontram.Esses dados são enviados a centros de armazenamentos em servidores locais ou em nuvem.
+
+COMPUTAÇÃO 
+Há um anseio para que os objetos tenham a capacidade de realizar processamento.Para isto,é preciso dotá-los de elementos de processamento tais como microcontroladores,processadores e FPGA-Arranjo de Portas Programáveis em Campo(em InglÊs,Jield Programmable Gate Array).
+
+SEMâNTICA 
+Semantica,em um sistema linguistico,sigfica sentido das palavras.No contexto de Internet das Coisas,a Semantica é um atributo essencial para a comunicação de multiplos dispositivos por meio de dialeto comum.
+Normalmente,os objetos vão dispor de protocolos de comunicação abertos,garantindo  que diversas tecnologias possam ser desenvolvidas para explorar as possibilidades da comuncação   .
+Um exemplo disso éa tecnologia bluetooth que permite a extração e o envio de dados entre dispositivos para´prover novos serviços.
+
+SERVIÇOS 
+A aplicação das  tecnologias utilizadas na IoT envolve modelos de negocios,de possibilidades de personalização de produtos ao atendimento ás necessidades dos clientes tanto na Industria 4.0 como nas áres de seriços como :
+
+>TRANSPORTES 
+Fornecendo,aos motoristas,informações em tempo real sobre as melhores rotas,situação do trÂnsito e das estradas,demandas de atendimentos.E aos usuarios,indicando o melhor meio a ser utilizado(Trem,Onibus,taxi),tempo de viagem,custo. 
+
+>COMÉRCIO 
+Produção automatica de acordo coma medanda estatistica do estabelecimento comercial,prateleiras inteligentes que controlam a disponibilidade e reposição de produtos.
+
+>SAÚDE 
+possibilidade de transmitir ao médico,em tempo real,os sinais vitais do paciente para um acompanhamento a distancia 
+
+>SERVIÇOS PUBLICOS
+Sensores para o alerta de enchentes ou necessidade de limpeza em bueiros e galerias,cameras de monitramento  inteligentes de transito com conntrole de semaforos,sistemas inteligentes de verificação de sonegação de impostos.
+
+>AGRONEGÓCIO 
+Sensores para verificação das condições da previsão do tempo de indentificação e controle de animais.
+ 
+COMINICAÇÃO 
+São tecnologias e elementos utilizados para conectar objetos inteligentes.Normalmente ,são utilizadas tecnologias como redes cabeadas,Wi-Fi e Bluetooh para conexão e comunicação dos objetos.Observando os diversoso protocolos de comunicação.
+
+Saiba Mais!
+Indicadores de Radofrequencia-RFID(EmIngles |Radio-Frequency Idenfication),redes Wireless,dispositivos móveis e sistemas industriais em áreas,como Agricultura,Industria de Processamento de Alimentos,Industria de Serviços de saúde,Monitoramento Ambiental,Transporte ,entre outros.
+ 
