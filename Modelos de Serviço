@@ -1,2 +1,66 @@
-MODELOS DE SERVILO 
- A Nuvem é dinamica e seus recursos são provisinados ´q medida que a demanda cresce ou diminui,em um modelo baseado em Métricas de Uso.Dessa forma,sua orecificação na maioria das vezes,é calculada de acordo com o iso od serviço.Ou sei
+MODELOS DE SERVIÇO 
+ A Nuvem é dinamica e seus recursos são provisinados á medida que a demanda cresce ou diminui,em um modelo baseado em Métricas de Uso.Dessa forma,sua precificação na maioria das vezes,é calculada de acordo com o uso do  serviço.Ou seja,o cliente paga por um serviço de armazenamento proporcionalmente ao espaço que faz o uso . 
+ Na definição do NIST,para a Computação em Nuvem são descritos 3 modelos de serviços,também chamados de camadas de arquitetura em Nuvem.Observe,nas imagens,as diferenças entre eles.
+
+ INFRAESTRUTURA COMO SERVIÇO (Iaas) 
+ >Gerenciado Pelo Cliente 
+ Aplicações
+ Dados 
+ RunTime
+ Middleware 
+ O/S 
+ >Gerenciado Pelo Provedor 
+ Virtualização
+ Serviços 
+ Armazenamento 
+ NetWorking 
+
+
+ PLATAFORMA COMO SERVIÇO(PaaS)
+ >Gerenciado Pelo Cliente 
+ Aplicaçoes 
+ Dados
+ >gerenciado Pelo Provedor 
+ RunTime
+ Middleware
+ O/S 
+ Virtualização 
+ Servidores 
+ Armazenamento 
+ NetWorking 
+
+
+ SOFTWARE COMO SERVIÇO (SaaS)
+ >Gerenciado pelo Provedor 
+ Aplicações 
+ Dados 
+ RunTime 
+ MiddleWare 
+ O/S 
+ Virtualização 
+ Servidores  
+ Armazenamento 
+ Networking 
+
+ Outras Vantagens do modelo de Computação em Nuvem são a Confiabilidade e a Tolerancia e´Falhas,pois,os clientes podem estabelecer acordos de nivel de serviços com os provedores de modo a garantir a disponibilidade apenas dos recursos que precisam.Além disso,tarefas como backup de proteção contra vulnerabilidades de segurança da informação passam a ser esposabilidade dos provedores e não mais dos clientes.
+ Essa flexibilidade permite que as industrias tenham maior agilidade,pois no momento em que acontece a maior demanda,a nuvem se adapta a esta necessidade,oque garante que a empresa seja  agil na resposta ao cliente.
+ De uma forma genérica,podemos dizer o que diferencia o stipos de modelos de serviço em Nuvem é que o Tipo de Cliente ao qual cada um se destina.
+
+ESTRUTURA COMOO UM SERVIÇO (IaaS) 
+O objetivo desse modelo é tornar acessível o fornecimentos de recursos computacionais,como servidores,redes,armazenamento,etc,que são fundamentais na construção de um ambiente de rede.
+No LaaS,o provedor é responsável fisicamente pelos servidores,dispositivos de armazenamento pela rede.O cliente da Nuvem se torna responsável por obter as máquinas provisionadas pelo provedor de serviços,instalar e confifurar o sistema operacional e as demais aplicações de seu interesse.
+Em geral, o cliente não administra ou cintrola a infraestrutura em Nuvem,mas tem controle sobre sistema operacionais,armazenamento,aplicativos implementados e ,eventualmenteseleciona componentes de rede.tais como firewalls(firewall é um dspositivo de segurança de rede que monitora o trafego de entrada e saida,permissão  ou bloqueio de trafegos de acordo com o conjunto definido de regras de segurança. Adaptado de:Cisco)
+Em outra spalavras,o IaaS é um serviço destinado a uma equipe de Ttecnologia de Informação(T.I).Sendo assim,a equipe precisa instalar e configurar,por conta própria,todos os recursos necessarios para as suas necessidades,desde o sistema operacional ate as aplicações que estao disponibilizadas.Normalmente ,é adotado por empresas que visam reduzir investimentos em hardware,eliminando custos como segurança e mNUTENÇo,além d liberar o esáço fisico que seria ocupado por servidores,por exemplo.
+Dica: Há diversos provedores  de computação em Nuvem que fornecem esse modelo,sendo a solução Amazon Elastic Cloud Coputing-EC2 uma das principais diferenças .
+
+PLATAFORMA COMO UM SERVIÇO (PaaS)
+esse é um modelo intermediário,composto por uma hardware virtualdisponiblizado como um serviço.O provedor do serviço disponbiliza o sistema operacional ,linguagens de program~ção e ambientes de desenvolvimento de aplicações.
+O Cliente  nao administra ou controla a infraestrutura subjacente,mas tem o controle sobre as aplicaçoes implantadas e,possivelmnte sobre as configurações de aplicações hospedadas nessa infraestrutura.
+O foco desse serviço são desenvolvedores de softwares,pois o PaaS é um amabiente  completo para o desenvolvimento de aplicações,tais como compiladores,deputadores,bibliotecas etc.
+Enquanto o LaaS disponibiliza recursos de uma maneira generica,isto é ,com pouca ligação com o objetivo final do cliente,o PaaS disponibiliza recursos ligados  a negocios dos cliente.
+DICA: As soluções Google App Engine e Microsoft Azure se destacam com oprovedores no PaaS.
+
+SOFTWARE COMO UM SERVIÇO (SaaS)
+Esse modelo provisiona soluções de softaew com diferentes propositivos para os clientes da Nuvem,Acessiveis,por meio da internet ,pelos mais variados  dispositivos do usuario . O cliente não administra a infraestrutura sbjacente (rede,servidores,sistema operacional,discos rigidos,etc).
+Esse modelo prove serviços de computação para o usuario final.o usuario enxerga apena so Software que precisa usar não tem conhecimento de onde estãolocalizados os recursos empregados,nem quais linguagens de programação foram utilizadoas para dsenvolver o serviço,assim como desconhece destalhes do sistema operacional e do harware que o suporta.
+DICA:Os serviços de armazenamento oferecido pela DrpBox E pela Google são exemplo desse modelo .
