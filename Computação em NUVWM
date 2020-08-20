@@ -6,35 +6,46 @@ Oque é Computação em Nuvem ?
 Na busca pela definição do conceito de Computação em Nuvem (en  ingles,Cloud Computing)encontramos mútilpas abordagens e pouco consenso com a relação a uma definiçao. 
 O INSTITUTO NACIONAL DE PADRÕES E TECNOLOGIA-NIST -orgão do departamento de governo do Estados Unidos da América,define Computação em Nuvem como:
 
-"...Um modelo para habilitar Acesso  sob Demanda,conveniente e ubiquo, por meio de redes,a um reservatório compartilhado de recursos computacionais configuraveis,por exemplo ,redes,servidores,armazenamento,aplicações etc,que podem ser provisionados rapidamente e liberados com esforço minimo de gerenciamento ou integração com o provedor de serviços.
-Informalmente,podemos imaginar a nuvem como uma Grande Reservatório de Recursos,que foi cinstruido para se adaptar as necessidades de Aramazenamento de Dados de Seus Clientes e estar disponivel em tempo real por meio da internet.
+"...Um modelo para habilitar Acesso  sob Demanda,conveniente e ubiquo(Tecnologia que esta presente em todos lugares), por meio de redes,a um reservatório compartilhado de recursos computacionais configuraveis,por exemplo ,redes,servidores,armazenamento,aplicações etc,que podem ser provisionados rapidamente e liberados com esforço minimo de gerenciamento ou integração com o provedor de serviços.
+Informalmente,podemos imaginar a nuvem como uma Grande Reservatório de Recursos,que foi construido para se adaptar as necessidades de Armazenamento de Dados de Seus Clientes e estar disponivel em tempo real por meio da internet.
 Dessa forma, a Computação em Nuvem  pode ser compreendida como um Modo Pelo Qual os Usuarios Acessam,Por meio da Internet,esses recursos computacionais disponiveis.
-Para melhor entender a nivem,veja abaixo e linha do tempo e a evolução dos Sistemas de Armazenamento.
+Para melhor entender a Nuvem,veja abaixo e linha do tempo e a evolução dos Sistemas de Armazenamento.
 
->1880 
-O cartão perfurado,inevntado  no sec XIX,foi o precursos da memória usada em computadores.
->1950 
-A fita magnética,originalmente inventada para gravar áudio,s tornou na decada de 1950 o novo método para armazenamento de dados.
->1962
+>1880 CARTÃO PERFURADO
+O cartão perfurado,inventado  no sec XIX,foi o precursos da memória usada em computadores.
+
+>1950 FITA MAGNÉTICA
+A fita magnética,originalmente inventada para gravar áudio,se tornou na decada de 1950 o novo método para armazenamento de dados.
+
+>1962 COMPACTO AUDIO CASSETE
 Já na década de 1960 é lançado o primeiro compacto áudio cassete com capacidade de armazenamento de 660 KB em cada lado..
->1963
-oprimeiro disco de memória removivel (conhecido hoje como HD externo tinha a ca´pacidade de memo´ria de 2,6 MB)
->1971 
-Os disquete,que começaram a ser produzidos com 8"e capacidade de armazenamento de 80KB,evolluiram para 5,25'.Com armazenamento de 1,2MB]
->1990
-Iventado em 1982 originalmente para áudio,com a verão de 1990,que mermitia gravar e apagar arquivos,passou a ser utilizado na informatica por sua capacidade de armazenamento de até 700 MB o CDR e CDRW
-1994]]>Zip Drive,com capacidade de 100MB,tinha a proposta de substituir o disquete,mas não chegou a consquistar o meercado.
->1995
-A evolução d Cd, o DVD chegou com capacidade de 4,7 GB de espaço.
->1999
-Cartão de Memoria, com capacidade de 1GB,chegou com a proposta de aumentar a mmoria de cameras fotograficas e celulares.
->2000 
-O PenDrive sunstituiu definitivamente o disquete.Com capacidade atualmente de 512 GB de armazenamento,há promessa de lançamento de versão com capacidade de 1TB.
->2013
-Do ponto de vista de  quem armazena os daos ,a NUVEM elimina o equiapamento fisico.Ou seja,o usuário não precisa se preocupar com o equipamento que va guarda seus arquivos.Precisa apenas de um aparelho para acessá-los.Além disso,poderá acessar,de onde estiver,sua conta de e-mail,todos,fotos,musicas,softwares,arquivos de todos os formatos e tamanhos. 
+
+>1963 DISCO DE MEMÓRIA REMOVIVEL 
+O primeiro disco de memória removivel (conhecido hoje como HD externo tinha a capacidade de memória de 2,6 MB)
+
+>1971 DISQUETE 
+Os disquete,que começaram a ser produzidos com 8"e capacidade de armazenamento de 80KB,evolluiram para 5,25".Com armazenamento de 1,2MB]
+
+>1990 CDR-CDRW
+Inventado originalmente para audio,com a verssãonden1990,que perimitia gravar e apagar arquivos,passou a ser utilizado na informatica por sua capacidade de armazenamento de até 700 MB .
+
+>1994 ZIP DRIVE
+Zip Drive,com capacidade de 100MB,tinha a proposta de substituir o disquete,mas não chegou a consquistar o mercado.
+
+>1995 MIDIA DVD
+A evolução d CD, o DVD chegou com capacidade de 4,7 GB de espaço.
+
+>1999 CARTÃO DE MEMÓRIA
+Cartão de Memoria, com capacidade de 1GB,chegou com a proposta de aumentar a memoria de cameras fotograficas e celulares.
+
+>2000 PENDRIVE
+O PenDrive substituiu definitivamente o disquete.Com capacidade atualmente de 512 GB de armazenamento,há promessa de lançamento de versão com capacidade de 1TB.
+
+>2013 ARMAZENAMENTO EM NUVEM 
+Do ponto de vista de  quem armazena os dados ,a NUVEM elimina o equiapamento fisico.Ou seja,o usuário não precisa se preocupar com o equipamento que vai guardar seus arquivos.Precisa apenas de um aparelho para acessá-los.Além disso,poderá acessar,de onde estiver,sua conta de e-mail,todos,fotos,musicas,softwares,arquivos de todos os formatos e tamanhos. 
 
 Saiba Mais!
-Na -Na Ciencia da Computação os  fatores multiplicativos são Megabytes,gigabyytes e TeraBytes(mmega,giga<tera)que equivalem:
+ Na Ciencia da Computação os  fatores multiplicativos são Megabytes,Gigabyytes e TeraBytes( mega,giga,tera)que equivalem:
 >1MB = 1 megabyte = 1.000.000 bytes 
 >1GB = 1 Gigabyte = 1.000.000.000 bytes 
 >1TB = ! Terabyte =  1.000.000.000.000
