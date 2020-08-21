@@ -1,0 +1,24 @@
+BIG DATA ANALYTICS
+Tirar o melhor proveito do Big Data requer a capacidade de tratamento desses dados.Esse processo pode ser definido com Big Data Analytics,formado por metodos de gestão,tecnicas de processamento,mineração de dados e descoberta de conhecimento,inclusive o uso da inteligencia artificial.
+Conheça uma proposta de processo de Big Data Analytics.
+
+01 ESTABELECER QUESTIONAMENTOS 
+A primeira coisa a fazer é estabelecer as Perguntas para as quais buscaremos Respostas. Normalmente,essa formulação acontece em dois estagios: Em adquirir Dados,e em Realizar Modelo,no qual perguntas são refinadas.
+
+02 ADQUIRIR DADOS 
+Nessa etapa,são consultadas diversas Fontes de dados a fim de estabelecer os elementos da análise.
+
+03 LIMPAR DADOS
+Essa etapa consiste na aplicação de Tecnicas de Limpeza de Dados(data Cleaning),com o objetivo de dectar e sanar imperfeições nos dados coletados.Isso porque nem todos os dados coletados sao necessarios para responder o questionamento esbalecido.Pois podem conter informaçoes irrelevantes,duplicadas ou em formato inapropriado para o modelo.
+
+04 REALIZAR MODELO
+se os dados coletados apresentarem formato adequado para a resolução do problema,serão transformados em uma Semantica que permita ao analista de dados proceder com a Anáçise e/ou transformados para métodos analíticos,normalmente empregado tecnicas de aprendizagem de maquina.
+
+05 ANALISAR DADOS 
+Esse é considerado o passo fundamental  do processo.e nesse etagio que,com o uso de tecnicas,de manipulação de dados e de aprendizado de maquina,os Dados Sao Transformados em conhecimento.
+ 
+06 APRESENTAR 
+Os resultados dos métodos analiticos são compostos por diversos elementos e sua compreensão não é imediata e de facil assimilação.Por isso,são utilizadas tecnicas de visualização para representar o novo conheciemento de uma Maneira Coerente e de facil Compreensão .
+
+07 ANALISAR RESULTADOS 
+Nesse momento,as considerações sobre os resultados obtidos são apresentadas por meio de um conjunto de Ralatorios que descrevem o processo realizado e das descobertas Geradas ao longo das etapas anterior.
