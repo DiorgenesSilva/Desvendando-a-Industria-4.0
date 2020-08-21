@@ -1,0 +1,28 @@
+MODULO 04 BIGDATA 
+Neste módulo,voce conhecerá o conceito de Big Data,suas caracteristicas e aplicações:e entendera como o uso dessa tecnologia possibilita que as empresas se tornem ágeis.Além disso,conhcerá como surgiram a inteligencia artificial eo processo de Analise de Dados.
+Esperamos que no final deste módulo,voce tenha entendido como BigData,IoT,Computação em Nuvem e Inteligencia Artificial podem ser utilizados para beneficiar a industria, o setor de serviços ea sociedade.
+
+Oque é Big Data ?
+Estamos vivendo na era da informção.Diariamente,milhões de dados são gerados.No ano de 2017,por exemplo,foram gerados 2,5 quintilhões de bytes(Byte é uma unidade de informação digital,utilizada para expecificar a quantidade de memoria de um dispositvo ou a capacidade de armazenamento) seriam necessARIOS 10 MILHOES DE DISCOS.para se ter uma ideia de geração de dados,é sabido que 90% dos Dados diponiveis hoje foram gerados nos ultimos dois anos .Ou seja,a sociedade esta gerando uma quantidade de informação muito superior a toda humanidade ao longo dos seculos.
+A internet é uma das principais fontes de dados. Globalmente,a Web recebe os mais diversos formatos de dados e artidos cientificos a publicações nas redes,nos formatos de texto,imagem,video e audio.  
+Este grande volume de dados recebe o nome de BigData. No entanto BigData não deve ser entendido apenas pelo volume de dados.O fator principal,para a industria,no uso dessa tecnologia é a Capacidade de Processar e Avaliar as Informações mais relevantes,pois de nada serve possuir volumes de dados se não puder fazer uso deles.E preiso extrair conhecimentos uteis e valiosos,de modo que se faz necessario o uso de ferramentas e tecnicas de gestao para processar grande volume de dados,em diversos formatos,em velocidade adequada.
+há cinco caracteristicas chave em Big Data que são :VOLUME,VELOCIDADE,VARIEDADE,VERACIDADE e VALOR.
+
+VOLUME:
+Refere-se a Quantidade de Dados cada vez maior esta sendo gerada e/ou consumida.
+O dsafio éarmazenar e recuperar um grande volume de dados por meio de soluções computacionais capazes de armazenar volumes de dados e indexá-los para uma rapida pesquisa e recuperação.
+Além disso,o custo para armazenagem dos dados esta mais barato.De acordo com a revista Computer World,em 1970,por exemplo,armazenar 1 Gigabyte de dados custava $185.000(Cento e Oitenta e Cinco Mil dolares).Essa mesma quantidade,em 2017,estava sendo ofertada por US$0,02(2 Centavo de Dolar).
+
+VELOCIADADE
+Refere-se a Velocidade com que os Dados são Gerados e/ou recuperados.
+De acordo com o site domo.com(2018),em 2017,a cada minuto,foram realizadas mais de 150 mil chamadas noo Skyoe,mais de 4 milhoes de visualizações no You Tube.
+Em 1993 por exemplo,a humanidade gerava 100GB de dados por dia.Em 2013,passamos a gerar 29.875 GB de dados por segundo! A previsão  para 2018 é de 50.000 GB sendo gerados por segundo.
+
+VARIEDADE
+Refere-se aos mais Diversos Formatos de Dados.No inicio da era digital,buscou-se fazer uso de dados estruturados,como modelos de banco de dados relacionais.Porém,com o avanço da internet,ea proriferação das redes sociais,passamos a utilizar  dados não estruturados,como videos,imagens,textos(mensagens).Processar tais formatos de dados requer o desenvolvimento de tecnologias especializadas.
+
+VERACIDADE 
+Refere-sea obtenção de dados Veridicos.O conceito de velocidad esta alinhado com o conceito de veracidade,pois os dados devem ser analisados em Tempo Real.Ou seja,os dados devem ser analisados de forma constante para dar veracidade a analise.
+
+VALOR
+Refere-se ao Valor  Agregado ao processo: coleta,aramazenamento ee Analise de dados.Em outras palavras,o processo de analise de dados pode  gerar novos conhecimentos e valor para a industria.
