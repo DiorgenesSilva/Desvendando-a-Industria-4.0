@@ -1,2 +1,8 @@
 MINERAÇÃO DE DADOS
+O que Turing propós foi um desafio e tanto na area da computação,pois desenvolver todas essas habilidades requer conhecimento peovenientes de multiplas áreas.Dessa forma,oque se viu ao longo da historia da Inteligencia Artifal foi o Desenvolvimento isolado de cada habilidade,sem ter o teste de Turing como foco.
+Em relação BigData,a Inteligencia Artificial contribuiu com a construção de modelos computacionais para a análise e descoberta de padrões em grandes conjuntos de dados.A área da Inteligencia Artificial que mais se relaciona a tais processos é denoominada Aprendizagem de Maquina,com a subárea Mineração de dados(em ingles,Data Mmimg) .
+Por meio das tecnicas de mineação é possivel obter dados dados,normalmente,na forma de regras lógicas ou prediçoes computacionais,que irao subsidiar um processo de tomada de decisão.Exemplo disso são as aplicações que buscam fazer Previs~es(denominadas ModelagemPreditivas),descobrir Novos Padrões ou Associações(denominadas Modelagens Descrtitivas),Refinar Agrupamentos por criterios de semelhança ou compreender anomalias de comportamento.
+As tecnicas de mineração de Dados podem variar de acordo com o objetivo da pesquisa.
 
+ASSOCIAÇÃO 
+O objetivo dessa tecnca é encontrar regras e associações entre itens qoe ocorrem simultaneamente 
