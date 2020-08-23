@@ -1,8 +1,30 @@
 MINERAÇÃO DE DADOS
-O que Turing propós foi um desafio e tanto na area da computação,pois desenvolver todas essas habilidades requer conhecimento peovenientes de multiplas áreas.Dessa forma,oque se viu ao longo da historia da Inteligencia Artifal foi o Desenvolvimento isolado de cada habilidade,sem ter o teste de Turing como foco.
-Em relação BigData,a Inteligencia Artificial contribuiu com a construção de modelos computacionais para a análise e descoberta de padrões em grandes conjuntos de dados.A área da Inteligencia Artificial que mais se relaciona a tais processos é denoominada Aprendizagem de Maquina,com a subárea Mineração de dados(em ingles,Data Mmimg) .
-Por meio das tecnicas de mineação é possivel obter dados dados,normalmente,na forma de regras lógicas ou prediçoes computacionais,que irao subsidiar um processo de tomada de decisão.Exemplo disso são as aplicações que buscam fazer Previs~es(denominadas ModelagemPreditivas),descobrir Novos Padrões ou Associações(denominadas Modelagens Descrtitivas),Refinar Agrupamentos por criterios de semelhança ou compreender anomalias de comportamento.
+O que Turing propós foi um desafio e tanto na area da computação,pois desenvolver todas essas habilidades requer conhecimento provenientes de multiplas áreas.Dessa forma,oque se viu ao longo da historia da Inteligencia Artifal foi o Desenvolvimento isolado de cada habilidade,sem ter o teste de Turing como foco.
+Em relação Big Data,a Inteligencia Artificial contribuiu com a construção de modelos computacionais para a análise e descoberta de padrões em grandes conjuntos de dados.A área da Inteligencia Artificial que mais se relaciona a tais processos é denoominada Aprendizagem de Maquina,com a subárea Mineração de dados(em ingles,Data Mining) .
+Por meio das tecnicas de mineração é possivel obter dados,normalmente,na forma de regras lógicas ou prediçoes computacionais,que irao subsidiar um processo de tomada de decisão.Exemplo disso são as aplicações que buscam fazer Previsões(denominadas Modelagem Preditivas),descobrir Novos Padrões ou Associações(denominadas Modelagens Descrititivas),Refinar Agrupamentos por criterios de semelhança ou compreender anomalias de comportamento.
 As tecnicas de mineração de Dados podem variar de acordo com o objetivo da pesquisa.
 
 ASSOCIAÇÃO 
-O objetivo dessa tecnca é encontrar regras e associações entre itens qoe ocorrem simultaneamente 
+O objetivo dessa tecnica é encontrar regras e associações entre itens que ocorrem simultaneamente.Por exempo,um conjunto de dados das vendas anuais de uma rede de supermecados possui todos os itens que foram comprados por uma pessoa,a data/hora da compra e o sexo do cliente.
+Por meio de regras de associação pode-se compreender quais itens são comprados  em conjunto (sempre que os cliebtes compram o item X,tambem compram o item Y:sabão lava-roupas e  amaciante,por exemplo).Com isso,a rede de supermercados pode compreender fenomenos de associação e colocar produtos lado a lado nas prateleiras a fim de garantir  continuidade desse comportamento.
+
+CLASSIFICAÇÃO 
+as técnicas de classificação são utilizadas para predizer possíveis valores(classes)a partir de uma serie de exemplos previamente rotulados. 
+Por exemplo,em um conjunto de dados provenientes de sensores instalados em maquinas da linha de produção de automoveis,os dados foram rotulados ára dizer se o produto apresentará problemas na etapa de controle de qualidade .
+Observe Exemplo abaixo.]
+
+SENSOR1  SENSOR2  SENSOR3  SENSOR4  SENSOR5  PROBLEMAS  
+  1.0      0.5      0.4      9.2      1.6      SIM  
+  0.5      0.5      1.0      0.5      0.5      NAO  
+  1.0      0.5      0.25     0.34     0.24     SIM
+  0.0      1.0      0.7      0.5      0.3      NAO 
+
+ Nessa tabela,a classe"Problemas" é o rotulo de cada linha de conjunto de dados.A tarefa de classificação é predizer qual será o resultado da classe quando a análise de outros dados,como  abaixo.Quando o sensor 1 está com 0.5,o sensor 2 com 0.8 e o sensor 3 com 0.9 havera problema ou não?
+  SENSOR1   SENSOR2   SENSOR3   SENSOR4   SENSOR5   PROBLEMAS 
+    0.5       0.8       0.9       0.2       1.5        ???
+    0.3       0.4       0.5       0.1       0.7        ???
+    
+ AGRUPAMENTO
+ As técnicas de agrupamentos consistem em segmentar em subgrupos um conjunto de registros a partir da similaridade de seus atributos.
+ No processamento,os padrões são dectados e os dados sao rotulados.Em seguida,um algoritimo de agrupamento é utilizado para agrupar um conjunto de dados a partir do conceito de similaridade entre os dados.
+  
