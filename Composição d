@@ -1,1 +1,24 @@
 COMPOSIÇÃO DOS ROBOS 
+Os compponentes de um robo podem ser subdivididos,basicamente,em 7 grandes grupos.
+> Estrutura
+> Manipuladores
+> Atuadores 
+> Controladores 
+> Fonte de Energia 
+> Transmissão 
+> Sensores 
+Para melhor compreender a composição dos robos,veja  os pontos em destaque e observe a comparação entre um ser humano e um robo.
+
+ESTRUTURA:> Pode ser comparado ao nosso esqueleto,pois ela é responsavel por dar sustentação ao robo e auxiliar seus movimentos.  
+
+MANIPULADORS:> Sao como nossos membros,por exemplo,braço,antebraço e mão sãoresponsaveis por manipular objetos. 
+
+ATUADORES:> Sao responsaveis pelo movimento do robo,assim como nossos musculos.Os atuadores podem ser eletricos,pneumaticos e hidraulicos.
+
+CONTROLADORES:> Sao o sistema nervoso responsavel por tomar as decisões previamente programadas.Sa basicamente,um computador que pode ser programado para repetir ações.
+
+FONTE DE ENERGIA:> Como o alimento para nós,a fonte  de energia do robô é responsável por garantir energia para as atividades.As principais fontes são: 
+*Eletrica via cabo ou bateria 
+*Pneumatica: ar comprimido 
+*Hidraulica: Utiliza o movimnto do fluxo hidraulico para produzir movimentos.
+
