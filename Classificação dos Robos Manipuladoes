@@ -1,18 +1,18 @@
 CLASSIFICAÇÃO DOS ROBÔS MANIPULADORES
-Os robos sã classificados de acordo coma configuração que lhes fornecem graus de liberdade.Ou seja,as possibilidades de deslocamento slineares e angulares de suas partes para a execução de atividsde.
-> Robos de cordenadas Cartesianas iu Pórtico:
-> Robo Articulado ou Antropormofo: 
-> Robo Paralelo ou Delta 
+Os robos são classificados de acordo com a configuração que lhes fornecem graus de liberdade.Ou seja,as possibilidades de deslocamentos lineares e angulares de suas partes para a execução de atividsde.
+> Robos de cordenadas Cartesianas ou Pórtico:
+> Robô Articulado ou Antropomórfico;
+> Robô Paralelo ou Delta. 
 
-Robo de Cordenadas Cartesianas ou Pótico 
+Robô de Cordenadas Cartesianas ou Pótico 
 È um robo industrial cujos tres eixos principais de controle são lineares ( movem-se em linha reta ao invés de girarem).Seus eixos estão em angulos retos entre si. Muito utilizado pela manipulação e posicionamento de objetos em superficies planas,com paradas muito precisas. Por se tratarem de robos bastante robustos estruturamente,no universo da industria 4.0 são muito utilizados em Magazines e em Movimentação de Cargas. 
 
 Robo de Cordenadas Articulado ou Antropormófico 
-E um robo industrial que possui pelo menos 3 eixos de rotação . O eixo de rotação da base é ortogonalaos dois ouyros eixos de rotação que são simetricos entre si. Esta configuração  permite maior mobilidade  ao robo.
+E um Robô industrial que possui pelo menos 3 eixos de rotação . O eixo de rotação da base é ortogonalaos dois outros eixos de rotação que são simetricos entre si. Esta configuração  permite maior mobilidade  ao robo.
 Esse é um dos robos mais utilizados nos principais processos de fabricação devido a sua flexibilidade.
 
 Robo paralelo ou Delta 
-E um robo industrial constituido de tres ou quatro braços e um punho que une-se aos braços. Muito utilizado para a separação,pega e montagem de pequenoso componentes. Suas principaais vantagens são a velocidade ea pecisão de movimentos .
-È utilizado na linha de produção onde varios Robos Delta trabalham em conjunto  ,sendo que cada um executa uma tarefa diferente.
+E um robo industrial constituido de tres ou quatro braços e um punho que une-se aos braços. Muito utilizado para a separação,pega e montagem de pequenoso componentes. Suas principais vantagens são a velocidade ea pecisão de movimentos .
+È utilizado na linha de produção onde varios Robos Delta trabalham em conjunto,sendo que cada um executa uma tarefa diferente.
 
  

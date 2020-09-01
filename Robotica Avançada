@@ -1,20 +1,23 @@
 ROBOTICA AVANÇADA 
-Nesse módulo,voce conhecera a Robotica Avançada e sua aplicação Também,conhecerá a composição,as caacteristicas e os tipos de robos,bem como a sua aplicação dentro da industria.
-Esperamos que ao final dos seus estudos,voce consiga selecionar o robo mais adequado a cada tipo de trabalho e tenah entendido como a tecnologia contribui para tornar a industria mais ágil .
+Nesse módulo,voce conhecera a Robotica Avançada e sua aplicação Também,conhecerá a composição,as caRacteristicas e os tipos de robôs,bem como a sua aplicação dentro da industria.
+Esperamos que ao final dos seus estudos,voce consiga selecionar o robô  mais adequado a cada tipo de trabalho e tenha entendido como a tecnologia contribui para tornar a industria mais ágil .
 
 Oque é Robotica.
-Robotica é o uso dos robos para a execução de atividades,em substituição ao ser humano em locais isalubres e em atividades qu epossam colocar em risco a saúde do homem.
+Robotica é o uso dos robos para a execução de atividades,em substituição ao ser humano em locais isalubres e em atividades que possam colocar em risco a saúde do homem.
 
 A utilização da robotica requer conhecimentos de mecenica (pneumatica,hidraulica,cinematica) ,eletronica(sensores e atuadores), softwares e programação (Microcontroladores e CLP - Controladores Lógicos Programaveis )
 
 
-Mas oque são RobÔs ?
+Mas oque são robôs ?
 Segundo a Robotics Industries Association - RIA (2017) 
-[...] Um Robo é um dispositivo automático co mconexões de realimentação(feedback)entre os sensores,atuadores eo ambiente sem que haja ação de controle direto do ser humano para a realização das tarefas.
+[...] "Um robô é um dispositivo automático com conexões de realimentação(feedback) entre os sensores,atuadores eo ambiente sem que haja ação de controle direto do ser humano para a realização das tarefas."
 
-No setor industral ,os robos vem contribuindo com o aumento da produtividade e da qualidade de produtos,melhorias na saude e segurança do trablahador,redução do consumo de energia e de insumos. 
+No setor industral ,os robôs vem contribuindo com o aumento da produtividade e da qualidade de produtos,melhorias na saude e segurança do trabalhador,redução do consumo de energia e de insumos. 
 O robo industrial é defenido por Norma ISO (international Organization for Standardization,Organizaçao Internacional de Normalização)como uma Maquna Funcional,que pode ter base fixa ou móvel,e ser usada em aplicações de automação industrial.Ele pode ser controlado automaticamente e ser usado para a manipulação,com varios graus de liberdade.
 
 Pode,ainda,ser usado em ações colaborativas com seres humanos.Por exemplo,um robo que segura uma carga enquanto u m operador humano a fixa em uma plataforma. 
 
 A robotica tambem se dedica a pesquisa e á construção de robos que se movam em seus ambientes de maneira automatica. Os robos móveis,tambem conhecido AGV(Automatic Guided Vehice),são veiculos que se movimentam de forma automatica,dispensando o auxilio de operadores.Esta área é chamada de robotica móvel. 
+
+Cerca de 90% dos robôs industriais são do tipo manipuladores ue podem urealzar diversas atividades e tambem são os mais utilizados nas industrias. Os AGV também começa a ter apliação na area industrial.
+ 

@@ -7,7 +7,7 @@ Os compponentes de um robo podem ser subdivididos,basicamente,em 7 grandes grupo
 > Fonte de Energia 
 > Transmissão 
 > Sensores 
-Para melhor compreender a composição dos robos,veja  os pontos em destaque e observe a comparação entre um ser humano e um robo.
+Para melhor compreender a composição dos robos,veja abaixo os pontos em destaque e observe a comparação entre um ser humano e um robo.
 
 ESTRUTURA:> Pode ser comparado ao nosso esqueleto,pois ela é responsavel por dar sustentação ao robo e auxiliar seus movimentos.  
 
@@ -22,3 +22,6 @@ FONTE DE ENERGIA:> Como o alimento para nós,a fonte  de energia do robô é res
 *Pneumatica: ar comprimido 
 *Hidraulica: Utiliza o movimnto do fluxo hidraulico para produzir movimentos.
   
+TRANSMISSÃO:> Equivale ao nosso sistema circulatorio. E responsavel por levar energia e informação aos diversoso pontos do sistema.  E basicamente composta por fios,na transmissão de seinais eletricos,e tubos para  a transmissão de energia pneumatica ou hidraulica.
+
+SENSORES:> Podemm ser comprados  aos nossos cinco sentidos.Sao responsaveis por coletar informações do ambiente para que o robô as utilze para tomarr decisões baseadas em sua programação . Para eszta liberação,são utilizados sensores que podem ser do tipo termopar (temperatura),GPS (locallização),piezoelétrico(pressão),Ultrassom (proximidade),ccd ou cmos (imagem),entre outros. 
