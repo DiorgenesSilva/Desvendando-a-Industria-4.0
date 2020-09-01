@@ -8,7 +8,7 @@ Acompanhe o processo produtivo com impressão 3D,ou seja ,a manufatura aditiva.
 
 2 :> Converter o arquivo (desenho) para um formato aceito pela impressora( por exemplo,extensão STL ou IGS).
 
-3:> imprimir o produto , observe  que antes da impressão,foram selecionados o sos materiais que serão utilizados como base no produto e o acabamento que sera dado á peça. Em escolha determinada a resistencia do produto  de acordo com a aplicação.
+3:> imprimir o produto , observe  que antes da impressão,foram selecionados  os materiais que serão utilizados como base no produto e o acabamento que sera dado á peça. Em escolha determinada a resistencia do produto  de acordo com a aplicação.
 
 4:> Dar acabamento ao produto ,retirar suportes,rebarbas e finalizar os produtos de cura e/ou sinterização.
 O tipo de acabamento de produto dependerá da tecnologia utilizada na impressão.
