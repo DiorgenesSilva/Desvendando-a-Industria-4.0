@@ -1,3 +1,32 @@
  PRINCIPAIS TECNOLOGIAS DA MANUFATURA ADITIVA
- Como voce viu,a capacidade de produzir geometrias compllexas é um dos grandes diferenciais da manufatura aditiva. Além disso,essa tecnologia permite produzir peças mais leves,com resistencia mecanica igual,ou superior ,as peças produzidas por metodos produtivos covencionais.
- 
+ Como voce viu,a capacidade de produzir geometrias complexas é um dos grandes diferenciais da manufatura aditiva. Além disso,essa tecnologia permite produzir peças mais leves,com resistencia mecanica igual,ou superior ,as peças produzidas por metodos produtivos covencionais.
+ Com a manufatura aditiva também é possível reduzir o numero de ferramentas e dispositivos necessarios para a produção pois todas as informações do produto estão em um arquivo digital que pode ser armazenado tanto localmente como na nuvem . 
+ Entre os beneficios proporcionados pela manufatura aditiva estão : 
+ > Agilidade na customização em massa.
+ > Facilidade na produção de geometrias complexas.
+ > Baixo custo de armazenamento das matrizes 
+ > Velocidade de produção(projeto e produto ) 
+
+ Na customização em massa,por exemplo,essa tecnologia permite mudanças no produto a cada peça produzida ,o que garante a empresa flexibilidade e agilidade no atendimento as demandas do mercado .
+
+ Na Pratica
+ Saiba cmo as empresas estão s benecifiando da manufatura aditiva. Aproveite ppara pensar de que maneira essa  tecnologia pode ser utilizada na area ou  na empresa em que voce trabbalha.
+
+ Otimização da Manufatura 
+ Normalmente,os BLOCOS HIDRAULICOS.são produzidos por usinagem.São compostos por aço ou  ooutra liga de aluminio,usinados e,posteriormente,furados de forma a criaar a passagem para os fluidos. Devido ao seu design curvolibeo,após as furações,é necessaria a aplicação de tampões em alguns pontos, a fim de garantir o camiho ideal para o fluido. Esse processo,alem de consumir bastante materia-prima ,requer adição de material para os tampoes e ferramental especifico no processo de furação.
+ Com o desafio de reprojetar um coletor de bloco hidraulico a fim de reduzir a massa do bloco,uma empresa especializada em usinagem de pressão utilizou a manufatura aditiva. Durante o processo,verificou-se a possiblidade de otimizar o percurso para aumentar a eficiencia do fluxo de fluidos. 
+  
+ No novo projeto, o bloco produzido por manufatura aditiva proporcionou :
+ > Aumento da eficiencia do fluxo de fluidos em ate 60%
+ > Redução expressiva da massa em até 79% 
+ > Redução das ferramentas e dispositivos
+ > Liberdade total de projeto e flexibilidade de adaptações 
+ > Construção de peça unica,menos oportunidades para os defeitos 
+ > Capatibilidade com o projeto anterior 
+
+ Resumo dos Resultados 
+
+ MANUFATURA                                             MATERIAL              VOLUME(cm)            MASSA(Kg)
+Coletor hidralico (projjeto origibal  Usinagem )     Liga de aluminio            9600                 25,6
+Projeto para ! Iteração (Manufatura aditiva)         Liga de Aluminio          4650(-52%)             12,3
+
