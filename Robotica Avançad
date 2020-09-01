@@ -1,25 +1,25 @@
 ROBÓTICA AVANÇADA
 Na Robotica Avançada há robos que permitirão que empresas se tornem cada dia ais ageis e que aumentem sua capacidade de aprendizado .
 
-Robo Autonomo 
-Robos Autonomos são capazes de operar em ambientes desestruturados sem continuo ou explicito de controle humano de seus movimentos. Recebem informações do ambiente, se deslocam de um ponto ao outro sem assitencia humana e evitam situações perigosas para eles e para os humanos.
-Os robos aplicados no campo de engenharia espacial são exemplos de robos autonomos,pois neses locais a comunicação pode falharr e eles precisam seguir com sua missão. Assim,eles precisam ser capazes de operar sem intervenção humana .
+Robô  Autonomo 
+Robôs Autonomos são capazes de operar em ambientes desestruturados sem continuo ou explicito de controle humano de seus movimentos. Recebem informações do ambiente, se deslocam de um ponto ao outro sem assitencia humana e evitam situações perigosas para eles e para os humanos.
+Os robos aplicados no campo de engenharia espacial são exemplos de robos autonomos,pois neses locais a comunicação pode falhar e eles precisam seguir com sua missão. Assim,eles precisam ser capazes de operar sem intervenção humana .
 Além disso,os robos autonomos dentro das industruas fornecem dados ao sistema integrado e aumentam a agilidade ea assertividade nas tomadas de decisão.
 
-Robo Corporativo 
-O robo corporativo é uma evolução dos robos industruais,quando se trata do trabalho  entr maquina e seres humanos.E um robo articulado,dotado de sensores em seus eixos,de força limitada,projetado opara aprender e de adaptar a novas tarefas,conforme o necessario,como se fosse um colega de trabalho humano.  
+Robo Colaborativo
+O robo Colaborativo é uma evolução dos robos industruais,quando se trata do trabalho  entre maquina e seres humanos. È um robo articulado,dotado de sensores em seus eixos,de força limitada,projetado opara aprender e de adaptar a novas tarefas,conforme o necessario,como se fosse um colega de trabalho humano.  
 Isso requer movimento controlado e seguro,habilitado por servo motor e diversos tipos de sensores implementados em cada eixo rotativo,a fim de operar com segurança ao lado de seres humanos.
 
 Biomimética
-Grande parte das invenções humanas foram baseadas nas formas da natureza.Essa inspiração é chamada de Biomimética. Ao observarem a natureza,os projetistas buscam soluções para problemas de design,a fim de produuzirem robos capazes de executar tarefas cada vez mais complexas.
+Grande parte das invenções humanas foram baseadas nas formas da natureza.Essa inspiração é chamada de Biomimética. Ao observarem a natureza,os projetistas buscam soluções para problemas de design,a fim de produzirem robos capazes de executar tarefas cada vez mais complexas.
 Um exemplo é o projeto de robos corporativos móveis,inspirado nos insetos que vivem em colonias ( formigas , abelhas),animais marinhos que vivem em grandes cardumes (aguas vivas ) ou em passaros que migram em grandes bandos. A ideia é que em um sistema multirobos,cada um dos robôs tenha a capacidade de perceber seu Comportamento  Enquanto Grupo e,no contexto ,de Agir Individualmente.
-Os desafios das equipes de programação estão concentrados na comunicaçao e na  interação desses robos.Ao vencer esses desafios,os cientistas buscam alcansar o proximo nivel - cooperação baseada  em animais mais compplexos,como bandos de mamiferos que executam funções cordenadas.
-Essas habilidades são muito importantes quando tratarmosda industriia,imagine sistemas que percebam a necessidade de auxilio e consigam se agrupar de forma a atender  uma demanda maior ou menor,isso permite maior agilidade e flexibilidade dentro da industria 4.0.  
+Os desafios das equipes de programação estão concentrados na comunicaçao e na  interação desses robos.Ao vencer esses desafios,os cientistas buscam alcansar o proximo nivel - cooperação baseada  em animais mais complexos,como bandos de mamiferos que executam funções cordenadas.
+Essas habilidades são muito importantes quando tratarmos da industriia,imagine sistemas que percebam a necessidade de auxilio e consigam se agrupar de forma a atender  uma demanda maior ou menor,isso permite maior agilidade e flexibilidade dentro da industria 4.0.  
 
 
 Sonda Espacial 
-Sondas são naves espaciais nao tripuladas,com autonomia de movimentos,programadas para a Exploração de planetas,satelites,Asteroides,Cometas e tudo mais que deseja explorar fora da terra. São utilizadas para colletar informações em llocais onde seria muito caro  o envio e retorno de um ser humano ou mesmo locais desconecidos,e que não seria seguri a eexposição de humanos .
-A primeira sonda espacial,a Luna 1,em 1959,pela antiga Uniao das Republicas Socialistas Soviéticas - URSS,  e desde então diversos paises enviam Sondas para  o espaço a fm de coletar dados quue subsidiem suas pesquisas sobre planetas,asteroides,sateliites e cometas.]
+Sondas são naves espaciais nao tripuladas,com autonomia de movimentos,programadas para a Exploração de planetas,satelites,Asteroides,Cometas e tudo mais que deseja explorar fora da terra. São utilizadas para colletar informações em  locais onde seria muito caro o envio e retorno de um ser humano ou mesmo locais desconhecidos,e que não seria seguri a eexposição de humanos .
+A primeira sonda espacial,a Luna 1,em 1959,pela antiga Uniao das Republicas Socialistas Soviéticas - URSS,  e desde então diversos paises enviam Sondas para  o espaço a fm de coletar dados quue subsidiem suas pesquisas sobre planetas,asteroides,sateliites e cometas. 
 Voce Saiba ! 
 Que em 2011, o robo Curiosity foi enviado a Marte para explorar o planeta e coletar informações sobre sua tecnologia,clima e meio ambiente ?
 O robo,do tamanho aproximado de um jipe,possui diversas ferrammentas embarcadas,mas as principais estão em um braço que fica guardado enquanto  o robo se movimenta.
@@ -28,9 +28,9 @@ Na Pratica
 Saiba como as as empresasestão se beneficiando da Robotica Avançada. Aproveite para pensar de que maneira essa tecnologia pode ser utilizada na area ou na sua empresa em que vice trabakha.
 
 Industria Farmaceutica 
-Na industria Farmaceutica, os processos demandam altp grau de confiabilidade e segurança a fim de garantir a qualidade sos pprodutos. Na fabricação,os processos seepticos são os mais criticos.
+Na industria Farmaceutica, os processos demandam alto grau de confiabilidade e segurança a fim de garantir a qualidade dos  produtos. Na fabricação,os processos assépticos são os mais criticos.
 Por isso,são adotados Sistemas Avançados de Processos Assépticos (APP),que consiste na utilização de robos para realizar a manipulação e controle dos medicamentos .
-Esses robôs passam a ser utilizados depois de um estudo (Whyle,1998)identificou que o soperadores humanos mesmo com vestimentas esterelizadas,geravam,em seus movimentos,particulas,que causavam risco de contamninação  dos medicamentos,na seguinte proporção .]
+Esses robôs passam a ser utilizados depois de um estudo (Whyle,1998)identificou que os operadores humanos mesmo com vestimentas esterelizadas,geravam,em seus movimentos,particulas,que causavam risco de contamninação  dos medicamentos,na seguinte proporção . 
 > Humano em estado imivel: 500.000 particulas por minuto .
 > Humano parado,com a cabeça,braçõs e corpo em movimento : 1.000.000 de particulas por minuto 
 > Homem caminhando  A 2km/h:5.000.000 de particulas por minuto 
@@ -45,8 +45,8 @@ Adaptado de: STÄUBLI, Robótica na fabricação asséptica de fármacos, 2017.
 
 Saude e Qualidade de Vida 
 O japão,famoso por sua tecnologia,vem apostando na robotica para amenizar um problema causando pela redução na natalidade e do aumento do numero de pessoas idosas que moram sozinhas ou em lares comunitarios.
-Os robs cuidadores ,alguns com formas de "ursnhos" e com vozes inafatilizadas,vem sendo usados como cuidadores de pacientes geriatricos.Alem de monitorar sinais vitais,.,fazer chamadas telefonicas de emergencia,servir  alimentação oe lembrar sobre o horario de medicamentos e compromissos,os robos nteragem,jogam,ensinam,desafiam e divertem esses idosos. Que ajudam manter corppo e mente saudaveis.
+Os robs cuidadores ,alguns com formas de "ursnhos" e com vozes inafatilizadas,vem sendo usados como cuidadores de pacientes geriatricos.Alem de monitorar sinais vitais, fazer chamadas telefonicas de emergencia,servir  alimentação oe lembrar sobre o horario de medicamentos e compromissos,os robos nteragem,jogam,ensinam,desafiam e divertem esses idosos. Que ajudam manter corpo e mente saudaveis.
 Os reultados terapeuticos são impressionantes e vão desde reabilitação fisica de pacientes á redução de depressão .
-Embora o maio investimento na area tenha sido no Japão,os EUA e paises da Europa vem acelerando o desenvolvimento dos "Carebot",como são chamados os robôs cuidadores. Isso porque a preocupaão com o isolammento social de idosos tem sido tema recorrente nos foruns mundiais de saude e qualidade de vida.
+Embora o maior investimento na area tenha sido no Japão,os EUA e paises da Europa vem acelerando o desenvolvimento dos "Carebot",como são chamados os robôs cuidadores. Isso porque a preocupaão com o isolammento social de idosos tem sido tema recorrente nos foruns mundiais de saude e qualidade de vida.
 Neste caso podemos observar o potencial que a robotica possui. Perceba que este robôs cuidadosamente precisam  ser produzidos em grande volume e por empresas especializadas,com conhecimento em diversos setores,derando assim,a criação de novos modelos de industria. 
  
