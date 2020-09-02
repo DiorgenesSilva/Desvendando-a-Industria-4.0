@@ -9,8 +9,66 @@
 
  Na customização em massa,por exemplo,essa tecnologia permite mudanças no produto a cada peça produzida ,o que garante a empresa flexibilidade e agilidade no atendimento as demandas do mercado .
 
- Na Pratica
- Saiba cmo as empresas estão s benecifiando da manufatura aditiva. Aproveite ppara pensar de que maneira essa  tecnologia pode ser utilizada na area ou  na empresa em que voce trabbalha.
+ Principais tecnologias utilizadas na Manufatura aditiva 
+ Modelagem por Fusão e Deposição - Fused Deposition Modeling (FDM)
+ Este é  o metodo mais difundido de impressão 3D. nele é utilizada uma bobina de filamento,em geral polimerico.O equipamento conduz o filamento ate um bico de extrusão ue controla a deposição ea fusão do material em camadas .Para que deposiçao aconteça em todos os pontos,esse bico possui um sistema de movimentação que permite o seu movimento em X,Y,Z.Com isso,ele podr ser movimentado lateralmente,para cima e para baixo,Conforme as necessidades da produção 
+ > Material para o Produto 
+ > Material para o Suporte 
+ > Base de Impressão 
+ > Mesa de Impressão
+ > Sistema de tração de filamentos 
+ > filamento para produto 
+ > filamento para Suporte
+ > Cabeçote de extrusão 
+ > Ponto de Fusão 
+ > Bloco de Extrusão 
+ > Produto 
+ > Suporte do produto  
+  Os equipamentos com esta tecnologia são facilmente encontrados em laboratorios de experimentos de fabricação colaborativa (FabLabs),pois essa é uma das tecnologias mais baratas para impressão 3D. No entanto,também encontramos estas maquinas em plantas industriais devido  á sua alta flexibilidade de produção com precisão .
+ O acabamento dos produtos oriundos desse processo consiste,basicamente,em retirar os suportes gerados pela impressora para dar sustentação ap produto impresso.
+
+Estereolitografia - Stereolithography Aparattus (SLA)
+Nesse processo são utilizadas resinas liquidas que se solidificam,camada por camada,para formar o objeto.A solidificação acontece por meio da emissão precisa e pontual de um laser. Conforme o caminho definido pelo software,a resina se solidifica criando a camada. Assim ,a plataforma de impressão vertical desde um nivel,permitindo  que a resina se sobreponha ao produto criando uma nova camada liquida,no qual o processo pode ser repetido.
+O acabamento nesse processo consiste em limpar o produto,retirando a resina sobressalente,e coloca-lo em um forno especifico para a cura total da resina.
+Embora esse seja um dos modos mais precisos do mercado,em geral seus produtos precisam de tratamento posterior devido a sua fragilidade.
+> Reservatorio de resina
+> Plataforma de Impressão  
+> Produto com suporte de apoio
+> Aplicador Nivelado de Resina 
+> Espelhos com atuadores em x-y 
+>Gerador de laser UV e sistema de lentes 
+
+Estereolitografia por Processamento de Luz Digital - Digital Light Processing (DLP)
+Esse metodo tambem funciona com uma resina liquida. A diferença entre o SLA é que ao invés da cura acontecer por um feixe de laser,ela ocorre com a utilização da luz. A luz é projetada pela parte inferior do tanque e o produto vai sendo retirado do tanque,o que faz parecer que um objeto solido está sendo retirado de um meio liquido .
+O processo de acacaabamento da esteriolitografia acontece em 3 fases: limpeza da resina  liquida que resta no produto,retirada dos suportes e,em muitos casos,a colocação do produto em uma camara de calor ou de luz para concluir a cura da resina. 
+> Plataforma de impressão com movimentação Vertical 
+> Reservatorio de Resina 
+> Base de fixação do produto 
+> Produto com suportes de  apoio 
+> Projetor de Imagem processada Digitalmente 
+> Espelhos com atuadres em x-y
+
+Sinterização a laser - Selective Laser Sintering (SLS)
+Esse metodo utiliza dioxido de caborno a laser para "Sintetizar" pós polimericos e outros compósitos,criando,assim,camadas precisas de material solido . Sintetizar = Sintetização é um processo no qual pós com preparação ou não,uma vez compactados,são submetidos a temperaturas elevadas,ligeiramente menores que a sua temperatura de fusão. Este processo cria uma alteração microscópica na estrutura do elemento base. Isto ocorre devido a um ou mais metodos chamdos "mecanismos de transporte":esses podem ser consecutivos ou concorrentes. Sua finalidade é obter uma peça solida coerente.
+Com essa tecnica é possivel processar polimentos,ceramicas e areia de fundição e criar,diretamente na impressora 3D produtos ou moldes para fundição de produtos em metal. 
+> Reservatorio de Materia Prima 
+> Reservatorio de sintetização movimento Vertical 
+> Sistema de emissão e direcionamento a laser 
+> Rolo distribuidor e nivelador de materi-prima  
+Com finalização esse processo exige apenas a extração do produto no tanque de impressao e algum acabamento superficial.  
+
+Sinterização Direta de Metal Por Laser – Direct Metal Laser Sintering (DMLS)
+A sintetização direta de metal por laser é um dos metodos mais revolucionarios por ser capaz de sintetizar pós metalicos e por apresentar acabamento e resistencia mecanica similares a de processos como forjamento e usinage.Essa tecnica vem sendo utilizada nas industrias Aeroespacial e Médica,alem de outros seguimentos.
+> Reservatorio de Materia-Prima
+> Reservatorio de sintetização de movimento vertical 
+> Sistema de emição e direcionamento de laser
+> Rolo distibuidor e nivelador de materia-prima 
+["Esse processo é semelhante ao SLS. As pincipais diferenças são a capacidade do laser utilisado eo sistema de focalização do laser. "]
+Na industria aeroespacial,é usada em centenas de aplicações,de componentes de turbinas a partes de cintos. Isso porque esta tcnologia permite produzir peças com a mesma resistencia mecanica das peças produzidas por meio de processos tradicionais,porém com design mais organico e mais leve (redução em 1/3 do peso) .
+Estudo da consultoria estadunidense Wohler Associates indica que os negocios com impressoras 3D movimentaram 5,1 bilhões no mundo em 2016,uma evolução em 30% em compração com 2015 .Ate 2020,a estimativa é que a cifra chegue a R$ 21 Bilhões.Outra consultoria,a Gaetner,aponta que em 2016 existiam 455,7 mil unidades de impressoras 3D no mundo. Estima que  em 2020 esse numero chegue a 6,7 milhões.
+
+Na Pratica 
+Com o desafio de reprojetar um coletor de bloco hidraulico a sim de reduzir a massa de bloco,uma empresa especialiada em usinagem de precisão utilizou a manufatura aditiva. Aproveite para pensar de quue maneira essa tecnologia pode ser utilizada na area ou na empresa em que voce trabalha.
 
  Otimização da Manufatura 
  Normalmente,os BLOCOS HIDRAULICOS.são produzidos por usinagem.São compostos por aço ou  ooutra liga de aluminio,usinados e,posteriormente,furados de forma a criaar a passagem para os fluidos. Devido ao seu design curvolibeo,após as furações,é necessaria a aplicação de tampões em alguns pontos, a fim de garantir o camiho ideal para o fluido. Esse processo,alem de consumir bastante materia-prima ,requer adição de material para os tampoes e ferramental especifico no processo de furação.
