@@ -1,0 +1,17 @@
+ VERTICALIZAÇÃO INTEGRADA
+O dados gerados nos procesos externos podem influenciar os processos internos e impactra custo,tempo ate mesmo qualidade n aprodução de um produto .
+Mas,para que a empresa  tire o melhor proveito das informações forncedidas pelas suas cadeias de suprimentos e de valor,é preciso que tenha uma visão detalhada  de seu  ambiente interno,oque é possivelpor meio de INTEGRAÇÃO VERTICAL .
+ Na VERTICALIZAÇÃO,há integração dos sistemas de TI em varios niveis hierarquicos,passando pela interface com os dispositivos fisicos do chão da planta (sensores e atuadores),pelo nivel de controle de maquinas e sistemas,linha de produção,planejamento da produção,controle de qualidade,ate processos de negocios nas areas de marketing e de vendas.
+
+ As soluções e tecnologias tipicas na integração vertical são : 
+ > CLP -Controlador Logico programavel : Responsavel por controlar os processos de fabricação. Se encontra no nivel de controle. 
+
+ > SCADA- Sistemas de Supervisão e Aquisição de Dados: Permite monitorar,controlar e supervisionar varias tarefas no nivel de produção.
+
+ > MES- Manufacturing Execution System: è um sistema de execução de fabricação para gerenciamento do nivel operacional da planta .
+
+> ERP- Enterprise Resourse Planning : O sistema inteligente da empresa que opera no nivel de planejamento empresarial,o nive mais alto da hierarquia.
+
+Mas,para que essa conexão ocorra,é preciso que a linguagem de comunicação ea arquitetura sigam umpadrão. O modelo de arquitetura utilizado pela industria 4.0 é o RAMI 4.0(Reference Architectural Model for Industrie 4.0) que propoe que a infomação seja organizada em camadas,desde o nivel mais baixo ( o sensor instalado na maquina,por exemplo) ate o nivel mais alto,o de gestão.
+
+Em ouras palavras,todos os componentes e areas estao conectados,o que permite que dados compatilhados pr maquinas,equipamentos e sistemas sejam transformados em informação que suportam as tomadas de decisão .
