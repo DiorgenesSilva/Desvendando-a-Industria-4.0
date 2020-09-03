@@ -1,0 +1,28 @@
+Módulo 09
+SEGURANÇA DIGITAL 
+Neste Módulo,voce  conhecerá o conceito de segurança digital,os pilares da segurança digital e os novos riscos aos quais a industria esta exposta com a digitalização .
+Esperamos que ao final de seus estudos,voce consiga identificar os requisitos e as boas praticas para garantir a segurança de informação na Industria 4.0 .
+
+Oque é Segurança Digital ?
+Para a sociedade comteporanea,a Informação é um dos recursos mais valiosos. No mundo corporativo,é fundamental nos processos de tomada de decisão,na criação de novos produtos e na competitividade. 
+A informação é considerada um ativo de valor para a organização .Como um ativo,que deve ser protegida. È com essa premissa que a area de segurança digital atua,com o o objetivo de proteger as informações disponiveis para a organização,minimizando os riscos,estabelecendo controles,ou seja,estabelecendo uma politica de segurança da informação.
+Quando pensamos em informação,nos vem em mente os arquivos que estão em uma empresa. Na verdade,podemos adicionar ao termo informação qualquer forma de  armazenamento e manipulação de dados. Logo,são exemplos de informação:E-mails,Videos,Gravações etc. E no contexto industriall 4.0,podemos citar os dados oriundos dos dispositivos.
+Todas as empresas,idependentemente de seu tamanho,possuem e manipulam informações,devendo,portanto,adotar algumas ações básicas para a proteção dessa informação.
+Na area de Seguranaça  da Informação existem normas que norteiam  os procedimentos a serem aplicados. Uma dessas normas é a NBR ISO/IEC 27002. Trata-se de um codigo de pratica para a gestão de segurança da informação. Para a ISO,a segurança da informaçao pode ser defenida como a:
+"... Proteção da Informação contra varios tipos de ameaças para garantir a continuidade do negocio,minimizar riscos,maximizar o retorno sobre o  investimentos e as oportunidades de negocio.."
+
+Vamos analisar um pouco essa definição. Temos que a segurança da Informação é a proteção contra varios tipos de ameaças. Mas quais são essas ameaças?
+Segundo FONTES(2008),algumas ameaças são: 
+ 
+> Descontentamento ou desmotivação de colaboradores
+> Baixo nivel de conscientização dos colaboradores sobre assuntos relacionados a segurança
+> Inexistencia de politicas e procedimentos para acesso,manipulação e armazenagem da informação.
+> Hacking,Virus ,Spam,e-mails maliciosos 
+> Falta de um plano de recuperação a desastres 
+> Desastres naturais,tais como incendio,inundação,terremoto etc. 
+
+Quando uma ameaça se concretiza,ou seja,quando ocorre incidente de segurança da infomação,a empresa pode ter que lidar com diversas consequencias,tais como a perda de clientes e contatos,danos á imagem,perda de produtividade,perda de propriedade intelectual etc.
+Em outra spalavras,nestes ataques,os criminosos podem alterar informações das bases de dados afetando processos,controlando maquinas e equipamentos  das industrias. Um virus pode desligar dispositivos de proteção,alterar o comportamento de robos,violar as variaveis de processos como pressão,temperatura,nivel,velocidade . isso tudo,alem de causar danos financeiros a empresa,pode causar danos fisicos aos colaboradores.
+Por isso,em empresas cada vez mais digitalizadas que itilizam IIoT,Nuvem,Integração de Sistemas,BigData,Intelugencia Artificial e Sistemas Cyber Fisicos,a segurança da informação representa a segurança de todo  o processo.
+Uma vez que se um Hacker invadir os sistemas de uma industia 4.0,ele podera acessar mais do que informações,poderá controlar todos os sistemas produtivos e impactar toda a cadeia produtiva,tanto interna(vertical) como externa(horizontal). As consequencias de não implantar e seguir os procedimentos de segurança podem ser catrastofricas.
+Nesse sentido,as medidas de segurança da informação são fundamentais para garantir que as emppresas sejam ageis e competitivas.
