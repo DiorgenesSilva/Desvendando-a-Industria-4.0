@@ -1,13 +1,13 @@
  MODELOS VIRTUAIS MANUFATURA DIGITAL 
     
-Como voce viu,a construção de um modelo virtual compreende vavrias etapas e permite diversas simulações.
+Como voce viu,a construção de um modelo virtual compreende varias etapas e permite diversas simulações.
 
 Simulações de  Engenharia
-Com base nas caracteristicas geometricas da peça,nas caracteristicas do material e nas condiçoes de fixação,assim como o esforço atuante,é possivel efetuar simulações cujos resultados fornecerão indicadores para a aprovação da peça(ou produto) de cordo com a condição de uso em estudo .Geralmentw,os modelos virtuais de analise sao validados com ensaios nas condições reais de uso. 
-A grande vantagem dos ensaios virtuais é que erros de projeto podem ser dectados nesta fase. Desta forma a utilização de ensaioos de prototipos reais cai drasticamente e,consequentemente,o custo do projeto. Há,ainda, oaumento da qualudade dos componentes analisados.
+Com base nas caracteristicas geometricas da peça,nas caracteristicas do material e nas condiçoes de fixação,assim como o esforço atuante,é possivel efetuar simulações cujos resultados fornecerão indicadores para a aprovação da peça(ou produto) de cordo com a condição de uso em estudo .Geralmente,os modelos virtuais de analise sao validados com ensaios nas condições reais de uso. 
+A grande vantagem dos ensaios virtuais é que erros de projeto podem ser dectados nesta fase. Desta forma a utilização de ensaioos de prototipos reais cai drasticamente e,consequentemente,o custo do projeto. Há,ainda, o aumento da qualudade dos componentes analisados.
 
 Simulação de usinagem CNC 
-As simulações dos processos de usinagem possibilitam avaliar as melhorias estategicas de usinagens,ferramentas,parametros,possibilidades, de colisões para maquinas em |CNC dos tipos Tornos,Centros de torneamento,Centro de usinagens 2,3, e 5 eixos. 
+As simulações dos processos de usinagem possibilitam avaliar as melhorias estategicas de usinagens,ferramentas,parametros,possibilidades, de colisões para maquinas em  CNC dos tipos Tornos,Centros de torneamento,Centro de usinagens 2,3, e 5 eixos. 
 Apos a simulação de usinagem,o programa CNC é gerado automaticamente. Esse programa sera enviado para a maquina CNC para a execução da operação. 
 
 Simulações Roboticas  

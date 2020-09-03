@@ -2,7 +2,7 @@
 Pra desenvolver o modelo de um processo de manufatura a ser simulado é necessario construir cada uma das etapas:
 
 MODELO VIRTUAL TRIDIMENSIONAL DO PRODUTO 
-O modelo virtual tridimensional do produto a ser produzido,conhecendo suas partes e o processos de fabricação e monntagem. Nesta fase é possivel simular o funcionamento cinematico do produto (caso exista) e as resistencias mecanicas de seus componentes com relação aos esforços aplicados em seu uso final.
+O modelo virtual tridimensional do produto a ser produzido,conhecendo suas partes e o processos de fabricação e montagem. Nesta fase é possivel simular o funcionamento cinemático do produto (caso exista) e as resistencias mecanicas de seus componentes com relação aos esforços aplicados em seu uso final.
 
 MODELO VIRTUAL DOS EQUIPAMENTOS 
 O modelo Virtual dos equipamentos necessarios ao processo e a aplicção da cinemática de suas partes. Caso o equiapamento seja uma maquina de usinagem CNC,será possivel  implementar na maquina um pós processador de forma similar os processos de usinagens,levando em conta todas as caracteristicas de usinagem no modelo .
