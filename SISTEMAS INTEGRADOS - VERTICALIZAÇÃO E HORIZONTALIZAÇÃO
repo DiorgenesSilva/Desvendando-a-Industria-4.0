@@ -1,13 +1,19 @@
 SISTEMAS INTEGRADOS - VERTICALIZAÇÃO E HORIZONTALIZAÇÃO
 Pois,com ao advento da industria 4.0,cresce a demanda pela comunicação entre sistemas para coleta,compartilhamento e analise de dados.  
-A integração dos sistemas,mapeando todos os processos da empresa,como o desenvolvimento de produtos,melhoria de produtos ja existentes,planejamento estratégico e processos produtivos é chamada de VERTICALIZAÇÃO. Ela permie uma visão sistemica do funcionamento da empresa.
-Já o processo de comunicação realizada entre a empresa e suas cadeias de valor de suprimentos,ou seja,seus fornecedores,prestadores de serviço,clientes e outros agentes externos á planta chamado de HORIZONTALIZAÇÃO. Nessa integração,é possivel rastrear o ciclo de vida do produto,desde a metria-prima que o compõe ate a sua reciclagem.
-Embora haja diferença entre integração vertical,o objetivo em ambos os processos é transformar em informação de valor os dados pelos sistemas e processos que envolvem a fabricação ea comercialização de produtos.
+A integração dos sistemas,mapeando todos os processos da empresa,como o desenvolvimento de produtos,melhoria de produtos ja existentes,planejamento estratégico e processos produtivos é chamada de VERTICALIZAÇÃO. Ela permite uma visão sistemica do funcionamento da empresa.
+Já o processo de comunicação realizada entre a empresa e suas cadeias de valor de suprimentos,ou seja,seus fornecedores,prestadores de serviço,clientes e outros agentes externos á planta chamado de HORIZONTALIZAÇÃO. Nessa integração,é possivel rastrear o ciclo de vida do produto,desde a materiaa-prima que o compõe ate a sua reciclagem.
+Embora haja diferença entre integração vertical ea horizontl,o objetivo em ambos os processos é transformar em informação de valor os dados pelos sistemas e processos que envolvem a fabricação ea comercialização de produtos.
 
 Os maiores beneficios que estas estrategias de integração oferecem para a idustria são a flexibilidade na produção ea agilidade na tomada de decisão.
 As tecnologias habilitadoras nesses processos são :
+
 > A Robótica Avançada: os sensores e atuadores instalados nas maquinas captam e enviam para  a rede de dados de seu funcionamento;
-A Internet das Coisas: que permite que os dados enviados pelos sensores e atuadores sejam disponiveis na rede;
+
+>A Internet das Coisas: que permite que os dados enviados pelos sensores e atuadores sejam disponiveis na rede;
+
 > O Big Data: Que agrega,em tempo real,dados dos ambientes interno e externo;
-> Computação em Nuvem: que viabiliza o armazenamento de dados,iformação e sistema fora dos dominios da fabrica. 
->Segurança Digital: Que garante a segurança doos equipamentos,dos sistemas e da informação que transita entre maquinas. Essa segurança é fundamental,pois mais que roubar dados,dentro do contexto da industria 4.0,um invasor pode parar maquinas,opra-las remotamente e expor os trabalhadores da planta a riscos fisicos. Voce estudará esse tema no proximo modo .   
+
+> Computação em Nuvem: que viabiliza o armazenamento de dados,irformação e sistema fora dos dominios da fabrica. 
+
+>Segurança Digital: Que garante a segurança dos equipamentos,dos sistemas e da informação que transita entre maquinas. Essa segurança é fundamental,pois mais que roubar dados,dentro do contexto da industria 4.0,um invasor pode parar maquinas,opera-las remotamente e expor os trabalhadores da planta a riscos fisicos. Voce estudará esse tema no proximo modo .   
+
