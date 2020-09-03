@@ -12,3 +12,13 @@ Apos a simulação de usinagem,o programa CNC é gerado automaticamente. Esse pr
 
 Simulações Roboticas  
 As simulações dos processos robóticos possibilitam analisar as melhores estrategias de movimentação e atuação das ferramentas terminais (garras) durante o processo. Permite identificar as possibilidades de colisões com elementos do proprio processo ,assim como em processos anterior ou poserior numa integração com diversos modulos fabris. Apos o teste e a analise,toda a programação gerada na simulaçao virtual ser transmitida ao processo real. Caso se planeje alterações no processo,estas poderão ser simuladas o/virtualmente e retransmitidas sem a necessidade de parada no processo produtivo .
+
+Simulações dos Processos produtivos 
+Nas simulações dos processos Produtivos são utilizadoso conhecimentos das tecnicas de planejameno da produção,com Lean Manufaturing,de forma de ober o processo mais produtivo. Podem ser considerados o produto a ser produzido,suas partes,o volume de produção solicitado,os equipamentos,tempos de maquina,tempos de parada, a modificação  de layouts ou outros parametros.
+ 
+Manufatura Digital 
+A montagem do processo produtivo tras todos os equiapemntos e infraestruturas necessarios e simula,virtualmente, o ambiente fabril.
+
+manufatura Digitaç
+O processo de simulação a Manufatura Digital conecta todos os conhecimentos da virtualização:modelagem tridimensional de produtos,componentes,maquinas,programações de unidades de usinagem,programações de sistemas robotizados necessarios ap ´rpcesso produtivo e as informaçoes da analise da produpção como layout  e tempos de processos,por exemplo.
+ 
