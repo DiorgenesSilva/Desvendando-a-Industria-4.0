@@ -1,0 +1,13 @@
+ MODELOS VIRTUAIS
+Como voce vui,a construção de um modelo virtual compreende vavrias etapas e permite diversas simulações.
+
+Simulações de |Engenhari a
+Com base nas caracteristicas geometricas da peça,nas caracteristicas do material e nas condiçoes de fixação,assim como o esforço atuante,é possivel efetuar simulações cujos resultados fornecerão indicadores para a aprovação da peça(ou produto) de cordo com a condição de uso em estudo .Geralmentw,os modelos virtuais de analise sao validados com ensaios nas condições reais de uso. 
+A grande vantagem dos ensaios virtuais é que erros de projeto podem ser dectados nesta fase. Desta forma a utilização de ensaioos de prototipos reais cai drasticamente e,consequentemente,o custo do projeto. Há,ainda, oaumento da qualudade dos componentes analisados.
+
+Simulação de usinagem CNC 
+As simulações dos processos de usinagem possibilitam avaliar as melhorias estategicas de usinagens,ferramentas,parametros,possibilidades, de colisões para maquinas em |CNC dos tipos Tornos,Centros de torneamento,Centro de usinagens 2,3, e 5 eixos. 
+Apos a simulação de usinagem,o programa CNC é gerado automaticamente. Esse programa sera enviado para a maquina CNC para a execução da operação. 
+
+Simulações Roboticas  
+As simulações dos processos robóticos possibilitam analisar as melhores estrategias de movimentação e atuação das ferramentas terminais (garras) durante o processo. Permite identificar as possibilidades de colisões com elementos do proprio processo ,assim como em processos anterior ou poserior numa integração com diversos modulos fabris. Apos o teste e a analise,toda a programação gerada na simulaçao virtual ser transmitida ao processo real. Caso se planeje alterações no processo,estas poderão ser simuladas o/virtualmente e retransmitidas sem a necessidade de parada no processo produtivo .
