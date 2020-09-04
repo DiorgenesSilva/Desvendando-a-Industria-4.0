@@ -1,14 +1,14 @@
  REQUISITOS DE SEGURANÇA
-Ha ainda,requisitos que s~~ao valiosos na proteção da Informação de uma empresa (Lepsen,2014).
+Ha ainda,requisitos que são valiosos na proteção da Informação de uma empresa (Lepsen,2014).
 
 PRIVACIDADE 
-È a confiança da capacidade de manter oculto o usuario criador ou manipulador da infprmação,nao sendo possivel realizar uma associação direta e o usuario. Nao se pode confundir este conceito com confiabilidade. A confiabilidade visa manter confidencial a informação com o acesso  apenas para usuarios autorizados(logo,deve-se conhecer quem é o usurio). A privacidade visa nao associar a informação ao usuario. UM bom exemplo desta privacidade são as urnas eletronicas brasileiras,que nao permitem associação de um voto a um eleitor,tornando o voo secreto.
+È a confiança da capacidade de manter oculto o usuario criador ou manipulador da informação,nao sendo possivel realizar uma associação direta e o usuario. Nao se pode confundir este conceito com confiabilidade. A confiabilidade visa manter confidencial a informação com o acesso  apenas para usuarios autorizados(logo,deve-se conhecer quem é o usurio). A privacidade visa nao associar a informação ao usuario. UM bom exemplo desta privacidade são as urnas eletronicas brasileiras,que nao permitem associação de um voto a um eleitor,tornando o voo secreto.
 
 AUDOTORIA 
 È a capacidade de rastrear diversos passos de um negocio ou de um processo,identificando os participantes,assim como locais e horarios.
 
 AUTENTICIDADE  
-É  a certeza de que as partes envolvidas em um processo de troca d einformação sejam quem afirmam ser.
+É  a certeza de que as partes envolvidas em um processo de troca de informação sejam quem afirmam ser.
 
 NÃO REPUDIO 
 È a segurança de que o emissor ou manipulador da Informação nao possa negar sua autoria ou responsabilidade. Por exemplo,uma troca de e-mails utilizando certificados digitais para assinar digitalmente o e-mail garante que o emissor nao opode nega-lo,caso sua autoria seja questionada,assim como garante ao rececptor recesaber quem escreveu a mensagem. 
