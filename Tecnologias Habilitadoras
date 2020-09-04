@@ -2,36 +2,4 @@ TECNOLOGIAS HABILITADORAS
 A Industria 4.0 pode ser vista como um mosaico que é composto por tecnologias que tem modificado os diversos setores da sociedade,as chamadas tecnologias habilitadoras.
 As tecnologias habilitadoras são tecnolofias,desenvolvidas ou em desenvolvimento,capazes de implementar no universo industrial e social parte das mudançãs que as bases da Industria 4.0 propõem. 
 Neste Curso estudaremos as tecnologias que tem gerado maior impacto para a Industria e para a sociedade.São elas:
-IOT INTERNET DAS COISAS,COMPUTAÇÃO EM NUVEM,MANUFATURA DIGITAL,INTEGRAÇÃO DE SISTEMAS,SEGURANÇA DIGITAL,ROBOTICA AVANÇADA,MANUFATURA ADITIVA E BIG DATA.
-
-IMPORTANTE!!
-E importante entender que essas tecnologias tem  feito diferença tanto na Industria como em diverdos setores,inclusive no seu dia a dia. no entanto,isoladamente,elas nao podem ser consideradas como a evolução para a Industria 4.0,pois o conceito implica a integração dessas tecnologias no processo produtivo .
- 
-IOT INTERNET DAS COISAS
-Maquinas e equipamentos podem ser dotados de sensores,comrecursos de conexão de comunicação,que enviam informação(dados) sobre o processso e sobre o seu proprio desempenho para a base de dados.Essa base de dados deve estar instalada em um servidor na planta ou na nuvem e estar conectada aos equiapamentos por meio de rede com ou sem fio.
-essa maquina,por exemplo,é um entro de usinagem,que se comunica com a planta,realizando um rabalho cordenado com os demais equiapamentos,sem a intervenção de uma pessoa. 
-
-BIG DATA E COMPUTAÇÃO EM NUVEM 
-Os dados grados por maquinas,equipamentos,sistemas,sensores e os proprios trabalhadores da empresa,como ocorre nesta planta,devem ser armazenados,tratados e protegidos.Para dar conta do grande volume de dados(Big Data)são estipuladas as regras de valor dos dados e a forma de armazenamento.
-A empresa pode lançar mão da Computação em Nuvem para efetuar os calculos necessarios a análise dos dados em estudo,e utilizar Sistemas de Segurança Digital para controle de acesso as informações geradas.
-Nessa planta,esse painel de controle central monitora todo o processo de produção por meio de um software,o Manufaturing Execution System-MES
-
-MANUFATURA DIGITAL 
-Na Manufatura digital,o processo produtivo foi todo modelado tridimensionalmnete,ou seja,em desenhos 3D(tres dimenões)em softwares CAD(Desenho Assistido por computador). 
-No modelo Digital estão representados em 3D todas as maquinas,equiapamentos,dispositivos,robos,produtos,possbilitando a simulação virtual do processo (funcionamento e inte)ração entre todas as maquinas e equipamentos).o que permite ,ainda ,análise e correção de eventuais problemas sem a montagem real da linha produtiva.
-Esse moodelo propricia uma enorme economia de instalação e o no processo produtivo.
-
-MANUFATURA ADITIVA
-Neste curso, voce verá essas e outras tecnologias como a Manufatura Auditiva e Integração de Sistemmas
-
-ROBOTICA AVANÇADA 
-Desde suas primeiras aplicações na Industria,coma finalidade de proteger o trabalhador de condições insalubres ou atividades inseguras,a Robotica Avançada tem se estendido para as mais variadas operações,como transporte,processos e operações repetitivas,inspeção e testes.
-os robos são vapazes de se controlar  a sistemas em um processo de comunicação com outras maquinas,conhecido como M2M(Machine to Machine).
-Existem,ainda,robos que podem trabalhar colaborativamente com seres humanos(Robotica Colaborativa).Nesta planta,voce pode observar tanto os robos,que realizam o processo M2M,como a um robÔ antropormófico,utilizado para manipular peodutos entre os equiapamentos,como o robÔ trabalha colaborando comos seres humanos.
-Robo antropormófico podde trabalhar de maneira colaborativa com os seres humanos(RobÔ Colaborativo).Ele é responsavel na planta por entregar o produto acabado ao humano.
-Quando o produto esta ppronto,o robÔ pega no magazine eo mantém posicionado na saida da linha de produção .
-Assim que o humano toca o produto,o sensor do robo intentifica o toque e libera o produto.
- 
-SEGURANÇA DIGITAL
-As medidas de Segurança Digital aplicadas na planta visam garantir que o acesso aos sistemas seja permitido apenas áqueles que possuem o direito.
-Existem plantas,por exemplo,que o acesso aos sistemas ocorre somente após o reconhecimento facial.
+IOT INTERNET DAS COISAS,COMPUTAÇÃO EM NUVEM,MANUFATURA DIGITATO)
