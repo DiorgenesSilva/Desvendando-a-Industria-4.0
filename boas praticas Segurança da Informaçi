@@ -1,14 +1,14 @@
 No cuidado com a segurança da informação,algumas praticas são tradicionais e muitas pessoas utilizam,outras são utilizadas apenas por especialistas em tecnologia da informação.
 
 BACKUP 
-A copia de segurança,conhecida como backup,é impresscritivel para garantir a disponibilidade da informação em caso de dano na armazenagem ou de roubo.  
+A copia de segurança,conhecida como backup,é imprescritivel para garantir a disponibilidade da informação em caso de dano na armazenagem ou de roubo.  
 
 REDUNDANCIA DE SISTEMAS
-A infraestrutura replicada,seja ela fisica ou virtual,permite que outros sistemas entre em operação caso um servidor ou equipamento falhe,de forma rapida,sem qu eusuario perceba.
+A infraestrutura replicada,seja ela fisica ou virtual,permite que outros sistemas entre em operação caso um servidor ou equipamento falhe,de forma rapida,sem que usuario perceba.
 
 EFICACIA NO CONTROLE DE ACESSO 
-O controle de acesso ´q informação pode ser fisico ou lógico. Exemplos de controle fosocp são cameas de monitiramento e travas especiai nas portas com uso de senhas. E como exemplo de controle logico podemos citar o firewallque aplica protocolos de segurança sobre o trafego d einformação de uma maquina para a outra.
-A tendencia para a industria 4.0 é  o uso da assinatura digital,que identifica e autentica o usuario por meio da impressão dogotal,da voz ,do rosto inteiro ou da iris dos olhos. 
+O controle de acesso ´a informação pode ser fisico ou lógico. Exemplos de controle fisicos são cameras de monitiramento e travas especiai nas portas com uso de senhas. E como exemplo de controle logico podemos citar o firewall, que aplica protocolos de segurança sobre o trafego de informação de uma maquina para a outra.
+A tendencia para a industria 4.0 é  o uso da assinatura digital,que identifica e autentica o usuario por meio da impressão digital,da voz ,do rosto inteiro ou da iris dos olhos. 
 
 CONTRATOS DE CONFIDENCIABILIDADE 
 Os colaboradores de uma organização,contratados ou tercerizados podem ter acesso a informações confidenciais.
@@ -18,4 +18,26 @@ POLITICA DE SEGURANÇA DA INFORMAÇÃO
 Conhecida como PSI,é a diretriz da organização em materia de segurança da informaçao.Pormeioo desse documento,os colaboradores tomam ciencia das normas comportamentais de uso de tecnologia. Essas nomas visam impedir invasões,virus,fraudes,sequestro de informações etc.
  
 ATUALIZAÇÃO TECNOLOGICA
-Os equiapmentos tecnologicos sofrem evolução continua  e,portanto,é necessario substitui-los consantemente,respeitando as questões tecnicas de qualidade. A atualização tcnologica torna a infraestrutura mais segura .
+Os equiapmentos tecnologicos sofrem evolução continua e,portanto,é necessario substitui-los consantemente,respeitando as questões tecnicas de qualidade. A atualização tecnologica torna a infraestrutura mais segura .
+
+
+NA PRÁTICA
+
+Veja, no case a seguir, a falha de uma grande empresa no quesito segurança da informação. Em seguida, reflita sobre o que poderia ter sido feito para garantir a segurança dos dados.
+
+Dados roubados
+Em 2013, a empresa de segurança LastPass, especialista em senhas, descobriu que dados (nomes e senhas) de mais de 152 milhões de usuários de contas da Adobe Systems haviam sido disponibilizados na internet, fato que foi considerado, na época, o maior vazamento de informação da história. Do mesmo modo, 2,8 milhões de dados bancários ficaram disponíveis, além dos códigos-fonte de aplicativos como ColdFusion, Adobe Acrobat e Reader.
+
+A empresa negou essa proporção, alegando que a invasão havia comprometido apenas 38 milhões de contas.
+
+Segundo a LastPass, entre os dados furtados havia endereços de e-mail, senhas criptografadas e dicas de senhas armazenadas sem proteção nos perfis dos usuários. Os dados roubados foram disponibilizados em um site acessado por cybercriminosos.
+
+No entanto, a Adobe explicou que nem todas as contas encontradas no site eram genuínas, porque o principal data center visado era um sistema de backup que estava prestes a ser substituído. Ou seja, pelo menos 25 milhões de registros eram de e-mails inválidos, e 18 milhões de senhas não tinham efeito. O porta-voz da empresa disse, ainda, que uma parte considerável dos perfis encontrados era fictícia, tendo sido usada por seus criadores com o intuito de baixar softwares gratuitos e outros recursos.
+
+Mesmo assim, os perfis “reais” poderiam ser usados para práticas criminosas de phishing, para obtenção de dados bancários, por exemplo.
+
+Paul Stephens, diretor da ONG Privacy Rights Clearinghouse, dedicada à segurança da informação, ressaltou que se uma pessoa tinha uma conta antiga da Adobe que não usava mais, mas utilizava a mesma senha para operações na intranet, criminosos poderiam roubar informações utilizando essa senha.
+
+Para Joe Siegrist, diretor executivo da LastPass, a Adobe não protegeu adequadamente as senhas dos usuários porque deixou de usar um código extra junto a cada senha criptografada (técnica conhecida como “salgar a senha”) antes de armazená-la no data center. Pelo menos 108 milhões de contas tinham senhas fáceis, e 1,9 milhões usavam praticamente a mesma senha, completou Siegrist.
+
+Adaptado de: O Globo e Mihajlo Prerad, Canal Tech.
